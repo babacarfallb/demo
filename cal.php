@@ -7,8 +7,8 @@ def substract(x,y):
 def multiply(x,y):
    pass
    
-def devide(x,y):
-   pass  
+def divide(x,y):
+   return x/y 
 
 def square(x,y):
    pass  
